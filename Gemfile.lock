@@ -197,7 +197,7 @@ GEM
     mime-types-data (3.2016.0521)
     mini_magick (4.8.0)
     mini_mime (1.0.0)
-    mini_portile2 (2.1.0)
+    mini_portile2 (2.4.0)
     minitest (5.11.3)
     mongo (2.4.3)
       bson (>= 4.2.1, < 5.0.0)
@@ -221,8 +221,8 @@ GEM
       net-ssh (>= 2.6.5)
     net-ssh (4.2.0)
     newrelic_rpm (5.1.0.344)
-    nokogiri (1.7.2)
-      mini_portile2 (~> 2.1.0)
+    nokogiri (1.10.10)
+      mini_portile2 (~> 2.4.0)
     oauth (0.5.4)
     origin (2.3.1)
     orm_adapter (0.5.0)
@@ -412,7 +412,7 @@ DEPENDENCIES
   mongoid-slug (~> 5.1)
   mongoid-sorted-relations
   newrelic_rpm
-  nokogiri (~> 1.7.1)
+  nokogiri (~> 1.10.10)
   pry-byebug
   pry-rails
   puma (~> 3.6)

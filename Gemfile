@@ -35,7 +35,7 @@ gem 'jbuilder', '~> 2.3'
 # bundle exec rake doc:rails generates the API under doc/api.
 gem 'sdoc', '~> 0.4.1', group: :doc
 # Use Nokogiri as HTML parser
-gem 'nokogiri', '~> 1.7.1'
+gem 'nokogiri', '~> 1.10.10'
 # Use Kaminari gem for pagination
 gem 'kaminari-actionview', '~> 1.0.1'
 # Kaminari adapter for Mongoid
